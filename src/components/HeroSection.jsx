@@ -95,7 +95,7 @@ const HeroSection = ({ onSearch, onSelectGenre, activeGenre,load }) => {
           data-aos="fade-up"
           data-aos-delay="400"
         >
-          📚 Unlock worlds within pages — explore, learn, and dream.
+          📖 Unlock worlds within pages — explore, learn, and dream.
         </p>
       </div>
 
